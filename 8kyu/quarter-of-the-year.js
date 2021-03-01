@@ -1,5 +1,3 @@
-console.log("yeah the boys");
-
 const quarterOf = (month) => {
   if (month <= 3) return 1;
   if (month > 3 && month <= 6) return 2;
